@@ -2,6 +2,8 @@
 
 A modern ASP.NET Core MVC web application built with .NET 9.0. This project provides a foundation for managing party invitations with a clean, responsive interface.
 
+> **Based on**: Chapter 3 "Your first ASP.NET Core application" from [Pro ASP.NET Core 7, Tenth Edition](https://learning.oreilly.com/library/view/pro-asp-net-core/9781633437821/OEBPS/Text/03.html#heading_id_3) by Adam Freeman (Manning Publications, 2023), with modifications for educational purposes.
+
 ## Features
 
 - **Modern ASP.NET Core MVC Architecture**: Built on .NET 9.0 with the latest framework features
@@ -139,6 +141,20 @@ Update `appsettings.json` for production settings:
 - [ASP.NET Core Documentation](https://docs.microsoft.com/en-us/aspnet/core/)
 - [MVC Pattern in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview)
 - [Bootstrap Documentation](https://getbootstrap.com/docs/)
+- [Pro ASP.NET Core 7, Tenth Edition](https://learning.oreilly.com/library/view/pro-asp-net-core/9781633437821/) - The source book for this project
+
+## 🙏 Acknowledgments
+
+This project is based on **Chapter 3: "Your first ASP.NET Core application"** from:
+
+**"Pro ASP.NET Core 7, Tenth Edition"**  
+*by Adam Freeman*  
+Published by Manning Publications, November 2023  
+ISBN: 9781633437821
+
+The original tutorial demonstrates creating a data-entry application for party invitation RSVPs using ASP.NET Core MVC. This educational adaptation has been modified for the PROG30000 course curriculum and updated to support .NET 9.0, while maintaining the core learning objectives from Freeman's excellent work.
+
+We gratefully acknowledge Adam Freeman's contribution to ASP.NET Core education and Manning Publications for making this comprehensive resource available to the development community.
 
 ## 📄 License
 
